@@ -1,4 +1,4 @@
-- name: init firewall config
+- name: init acl config
   hosts: all
   gather_facts: no
   vars:
